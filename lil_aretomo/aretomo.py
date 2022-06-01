@@ -62,7 +62,7 @@ def run_aretomo_alignment(
     align_tilt_series_aretomo(
         tilt_series_file=tilt_series_file,
         output_directory=output_directory,
-        binning=binning,
+        output_binning=binning,
         aretomo_executable=aretomo_executable,
         nominal_rotation_angle=nominal_rotation_angle,
         local_alignments=local_align,
