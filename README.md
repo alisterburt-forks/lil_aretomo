@@ -1,6 +1,6 @@
 # li'l AreTomo
 
-A lightweight Python API for [AreTomo](https://www.biorxiv.org/content/10.1101/2022.02.15.480593v1).
+A lightweight Python API for [AreTomo](https://doi.org/10.1016/j.yjsbx.2022.100068).
 
 ## Installation
 
